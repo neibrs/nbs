@@ -39,3 +39,4 @@ xmlrpc.php
 /themes
 .DS_Store
 node_modules/
+config.codekit3
